@@ -107,7 +107,9 @@ http://www.10tiao.com/html/227/201610/2650237473/1.html
 http://blog.csdn.net/u010687392/article/details/49850803
 【各种模式】
 http://www.runoob.com/design-pattern/mvc-pattern.html
-
+【拍照】
+http://www.jianshu.com/p/f269bcda335f
+https://github.com/crazycodeboy/TakePhoto
 
 
 
